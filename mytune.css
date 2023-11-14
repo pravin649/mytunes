@@ -1,0 +1,152 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: #252529;
+    margin: 0;
+    color: #fff;
+    line-height: 1.6;    
+}
+nav{
+    display: flex;
+    width:100%;
+    height: 50px;
+    background-color: #333;
+    color: rgb(51, 34, 34);
+    position:fixed;
+    flex-wrap: wrap;
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: #eee;
+    padding: 10px 18px;
+}
+nav a:hover{
+   padding: 20px 18px;
+   background:#444;
+}
+.A{
+    text-align: center;
+    padding: 120px;
+    height: 375px;
+    background-image: url(../image/img1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a{
+    font-size: 60px;
+}
+#sec1{
+    text-align: center;
+    padding: 30px 100px 0px 80px;
+}
+.a1{
+    font: 40px "PT Sans",sans-serif;
+}
+p{
+    font-size: 20px;
+    display: block;
+}
+#b{
+    font-size: large;
+    height: 60px;
+    font-size: medium;
+    width: 180px;
+    background-color:rgba(255, 0, 0, 0.524);
+    display: inline-block;
+    line-height: 55px;
+}
+#b:hover{
+    background-color:rgba(255, 0, 0, 0.724); 
+}
+#p3{
+font-size: medium;
+}
+#sec2{
+    margin-top: 60px;
+    text-align: center;
+    background-color: #eee;
+}
+#s2d{
+    padding: 30px 50px 20px 50px;
+    font-size: x-large ;
+    color: #333;
+}
+#p4{
+    color: black;
+}
+#p5{
+    background-color: #103063;
+    border: 1px solid #103063;
+    height: 55px;
+    width: 95px;
+    margin-left: 600px;
+    font-size: medium;
+    color: #eee;
+    line-height:50px;
+}
+#p5:hover{
+    background-color: #103093;
+}
+#sec3{
+    text-align: center;
+    height: 400px;
+    color: #eee;
+    padding: 150px 85px 0px 85px;
+    margin-top: 0px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+#s3d h3{
+    font-size: xx-large;
+}
+#sec4{
+    margin-top: 0px;
+}
+#s4d{
+    display: flex;
+    padding: 40px 60px 40px 60px;
+    background-color: #eee;
+    color: #333;
+    padding-bottom: 50px;
+}
+#tap{
+    color: #103063;
+}
+.s4p{
+    font-size: medium;
+}
+.fd1{
+    display: flex;
+    gap: 90px;
+    padding: 10px 50px 20px 100px;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-family: 'PT Sans',sans-serif;
+    font-size: 19.2px;
+}
+li a{
+    font-family: 'PT Sans',sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #eee;
+}
+#li1{
+    border-bottom: 1px solid rgba(8, 8, 8, 0.625);
+    height: 50px;
+    width: 600px;
+    align-items: center;
+}
+#li2{
+    border-bottom: 1px solid rgba(238, 229, 229, 0.537);
+}
+.fd2{
+    background-color: #444;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
